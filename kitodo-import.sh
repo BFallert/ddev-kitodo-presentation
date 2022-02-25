@@ -1,7 +1,7 @@
 #!/bin/bash
 
 LOCATIONS=$(cat documents.txt)
-KITODO_SOLR=dlfCore0
+KITODO_SOLR=1
 KITODO_PID=2
 EXEC="ddev typo3"
 #EXEC="./vendor/bin/typo3"
