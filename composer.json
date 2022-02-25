@@ -1,6 +1,11 @@
 {
-    "repositories": {
-    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/BFallert/slub_digitalcollections.git"
+        }
+    ],
+
     "name": "typo3/cms-base-distribution",
     "description": "TYPO3 CMS Base Distribution",
     "license": "GPL-2.0-or-later",
@@ -32,7 +37,7 @@
         "typo3/cms-viewpage": "^9.5",
         "typo3/cms-lowlevel": "^9.5",
         "sgalinski/lfeditor": "^6.0",
-        "slub/slub-digitalcollections": "dev-master",
+        "bfallert/slub-digitalcollections": "dev-master",
         "kitodo/presentation": "dev-master",
         "solarium/solarium": "^4.2"
     },
