@@ -2,7 +2,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/BFallert/slub_digitalcollections.git"
+            "url": "https://github.com/BFallert/ubma_digitalcollections.git"
         }
     ],
 
@@ -42,7 +42,7 @@
         "typo3/cms-viewpage": "^9.5",
         "typo3/cms-lowlevel": "^9.5",
         "sgalinski/lfeditor": "^6.0",
-        "bfallert/slub-digitalcollections": "dev-master",
+        "bfallert/ubma-digitalcollections": "dev-master",
         "kitodo/presentation": "dev-master",
         "solarium/solarium": "^4.2"
     },
