@@ -24,4 +24,4 @@ else
     cd images
 fi
 
-wget https://digi.bib.uni-mannheim.de/fileadmin/ddev-kitodo-temp/dlf_hp_VirtuellesKartenforum.jpg
+wget -N https://digi.bib.uni-mannheim.de/fileadmin/ddev-kitodo-temp/dlf_hp_VirtuellesKartenforum.jpg https://digi.bib.uni-mannheim.de/fileadmin/ddev-kitodo-temp/newspaper.jpg  https://digi.bib.uni-mannheim.de/fileadmin/ddev-kitodo-temp/ubma.jpg https://digi.bib.uni-mannheim.de/fileadmin/ddev-kitodo-temp/europaeische_rechtsgeschichte.jpg
