@@ -42,7 +42,7 @@
         "typo3/cms-viewpage": "^9.5",
         "typo3/cms-lowlevel": "^9.5",
         "sgalinski/lfeditor": "^6.0",
-        "bfallert/ubma-digitalcollections": "dev-master",
+        "bfallert/ubma-digitalcollections": "dev-branchtest",
         "kitodo/presentation": "^3.3.4",
         "solarium/solarium": "^4.2"
     },
