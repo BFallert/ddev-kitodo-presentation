@@ -43,7 +43,7 @@
         "typo3/cms-lowlevel": "^9.5",
         "sgalinski/lfeditor": "^6.0",
         "bfallert/ubma-digitalcollections": "dev-master",
-        "kitodo/presentation": "dev-master",
+        "kitodo/presentation": "dev-branchtest",
         "solarium/solarium": "^4.2"
     },
     "scripts": {
