@@ -36,10 +36,15 @@
         "typo3/cms-tstemplate": "^10.4",
         "typo3/cms-viewpage": "^10.4",
         "typo3/cms-lowlevel": "^10.4",
+        "typo3/cms-sys-note": "^10.4",
+        "typo3/cms-t3editor": "^10.4",
+        "typo3/cms-tstemplate": "^10.4",
+        "typo3/cms-viewpage": "^10.4",
+        "typo3/cms-lowlevel": "^10.4",
         "sgalinski/lfeditor": "^6.0",
         "slub/slub-digitalcollections": "dev-master",
         "kitodo/presentation": "dev-master",
-        "solarium/solarium": "^4.2",
+        "solarium/solarium": "^5",
         "typo3/cms-scheduler": "^10.4"
     },
     "scripts": {
