@@ -22,3 +22,21 @@ Login to TYPO3-Backend is possible at https://ddev-kitodo-presentation.ddev.site
 ### PHPMyAdmin
 
 With `ddev launch -p` you launch the PHPMyAdmin to access the TYPO3 database.
+
+## Solar installieren
+ddev get ddev/ddev-typo3-solr
+
+### Typo3 Konfiguration
+#### Admin Tools / Settings / dlf / Solr
+Solr Server Host: ddev-kitodo-presentation.ddev.site  (so auch der Projektordner)
+
+Solr Server Port: 8983
+
+Solr Server Path: /
+
+Rest ist unverändert
+
+### Solr Admin
+http://ddev-kitodo-presentation.ddev.site:8983/solr/
+
+http://ddev-kitodo-presentation.ddev.site:8983/solr/#/dlfCore0/core-overview

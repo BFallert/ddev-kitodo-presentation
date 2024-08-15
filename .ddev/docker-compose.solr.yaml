@@ -33,6 +33,8 @@ services:
     # It's almost impossible to work with it if you don't read the docs there
     image: solr:8
     restart: "no"
+    expose:
+      - 8983
     # Solr is served from this port inside the container.
     ports:
       - 8983
