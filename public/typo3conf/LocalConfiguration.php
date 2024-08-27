@@ -97,7 +97,7 @@ return [
                     'urn' => 'urn',
                     'volume' => 'volume',
                 ],
-                'host' => 'ddev-ddev-digi-new-test-solr',
+                'host' => 'ddev-kitodo-presentation.ddev.site',
                 'https' => '0',
                 'pass' => 'SolrRocks',
                 'path' => '/',
